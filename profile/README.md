@@ -3,8 +3,9 @@
 To see a comprehensive portfolio, including academic publications, please see [this page](https://www.lilacvisualarts.com/Portfolio).
 
 ### Highlighted Projects:
-* TypeScript + React: https://github.com/MichaeliusRepo/ElementCustomizationTool
+* Full-stack Media Explorer in TypeScript, React, Node.js: https://github.com/MichaeliusRepo/Glosscaster
 * Full-stack C# + ASP.NET + Azure: https://github.com/MichaeliusRepo/MediaLibrary
+* TypeScript + React: https://github.com/MichaeliusRepo/ElementCustomizationTool
 * Unity game, Lead Programmer in team of 16 developers: https://github.com/MichaeliusRepo/GraduationGame
 * [Academic publication](https://peerj.com/articles/12869/) featuring Virtual Reality: https://github.com/MichaeliusRepo/VR-Annotation-Scripts
 
